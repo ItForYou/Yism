@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">육임신문</string>
+    <string name="url">http://yism.kr/mobile/</string>
+    <string name="place">http://yism.kr/mobile/s1.htm</string>
+    <string name="domain">http://yism.kr/mobile/</string>
+    <string name="tel">010-8945-5430</string>
+</resources>
